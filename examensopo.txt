@@ -1,0 +1,10 @@
+Nombre:Gael Alexander Cardona Lima 
+Grado: 5to bachillerato en computacion
+pienso seguir la carrera de Ciencias en la Actividad Física y el Deporte
+Porque pienso seguirla: Hace no mucho desarrole un gusto por la actividad fisica y es algo lo que me apasiona y me gustaria poder seguir esta carrera para mejorar en esta area
+Que es html: Es un lenguaje que se utiliza para crear paginas web usando texto
+asi como colores y diseños para poder personalizar tu pagina este te proporciona una estructura
+y organizacion para ver el contenido de una pagina web mayormente se usa encabezados
+parrafos imagenes colores y enlaces entre otros.
+En resumen html es uno de los lenguajes mas utilizados del mundo siendo esta parte fundamental del 
+desarrolo web.
